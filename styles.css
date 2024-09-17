@@ -13,15 +13,11 @@ header {
 }
 
 nav table {
-  list-style: none;
   margin: 10;
   padding: 10;
+  background-color: #888
 }
 
-nav table tr {
-  display: inline-block;
-  margin-right: 10px;
-}
 
 main {
   padding: 20px;
