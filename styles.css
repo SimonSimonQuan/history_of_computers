@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background-color: #333;
+  background-color: #8c1007; //lighter dark red
   color: white;
   padding: 20px;
   font-size: 50px
@@ -20,7 +20,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #222;
+  background-color: #6e0c04; //dark red
 }
 
 li {
@@ -33,11 +33,11 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  background-color: #222;
+  background-color: #6e0c04;
 }
 
 li a:hover {
-  background-color: #111;
+  background-color: #8c1007;
 }
 
 
