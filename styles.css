@@ -7,20 +7,20 @@ body {
 }
 
 header {
-  background-color: #8c1007; //lighter dark red
-  color: white;
+  background-color: #8c1007; 
   padding: 20px;
   font-size: 50px
 }
 h1 {
   font-size: 40px;
+  font-color: white;
 }
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #6e0c04; //dark red
+  background-color: #6e0c04; 
 }
 
 li {
