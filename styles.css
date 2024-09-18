@@ -9,14 +9,14 @@ body {
 header {
   background-color: #8c1007; 
   padding: 20px;
-  font-size: 50px
 }
 h1 {
-  font-size: 40px;
+  font-size: 70px;
   font-color: #FFFFFF;
 }
 h2 {
   font-color: #6e0c04;
+  font-size: 60px;
 }
 ul {
   list-style-type: none;
@@ -37,13 +37,15 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
   background-color: #6e0c04;
+  font-size: 30px;
 }
 
 li a:hover {
   background-color: #8c1007;
 }
 
-
+p {
+  font-size
 main {
   padding: 20px;
 }
