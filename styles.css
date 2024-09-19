@@ -47,6 +47,9 @@ li a:hover {
 }
 .back {
   font-size: 20px;
+  float:none;
+  text-decoration: none;
+  color: white;
 }
 p {
   font-size: 20px;
